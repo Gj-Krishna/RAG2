@@ -1,0 +1,7 @@
+fitz
+pdfplumber
+nltk
+spacy
+langchain
+sentence-transformers
+qdrant-client
