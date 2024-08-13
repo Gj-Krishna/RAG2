@@ -1,0 +1,9 @@
+PyMuPDF
+langchain
+nltk
+langchain_experimental
+langchain_huggingface
+sentence-transformers
+langchain-qdrant
+qdrant-client
+langchain_community
